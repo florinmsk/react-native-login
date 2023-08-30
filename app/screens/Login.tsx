@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, Image, TextInput, Button } from "react-native";
+import { StyleSheet, View, Image, TextInput, Button } from "react-native";
 import React, { useState } from "react";
 import { useAuth } from "../context/AuthContext";
 

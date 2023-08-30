@@ -3,15 +3,15 @@ import React from "react";
 
 import { COLORS, SIZES } from "../constants";
 
-const Home = () => {
+const Scan = () => {
   return (
     <View style={styles.container}>
-      <Text>Home</Text>
+      <Text>Scan</Text>
     </View>
   );
 };
 
-export default Home;
+export default Scan;
 
 const styles = StyleSheet.create({
   container: {
